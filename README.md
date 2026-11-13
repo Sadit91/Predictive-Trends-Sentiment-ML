@@ -15,12 +15,12 @@ A comprehensive repository containing machine learning, statistical modeling, an
 
 ---
 
-## Overview[cite: 1]
+## Overview
 This repository covers three core analytical areas: real estate price estimation, movie review sentiment classification, and macroeconomic time-series forecasting.
 
 ---
 
-## Dependencies[cite: 1]
+## Dependencies
 The project utilizes the following core Python libraries:
 * **Data Manipulation & Analysis:** `pandas`, `numpy`
 * **Visualization:** `matplotlib`, `seaborn`
